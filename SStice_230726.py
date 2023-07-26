@@ -100,8 +100,25 @@
 
 # N과 M - 1
 
-# num1 num2 는 str
-num1 , num2 = input().split()
+# # num1 num2 는 str
+# num1 , num2 = input().split()
 
-for i in range(int(num1)):
-    print (i+1)
+# # 5, num2
+# list_box = []
+# for k in range(int(num1)):
+#     list_box.append(k+1) 
+
+# # num2개 짜리 중복제외를 만드는 코드 
+
+# def wj(num2):
+#     if num2 == 1:
+#         for i in range(len(list_box)):
+#             print (i)
+    
+#     else:
+#         for j in wj(num2-1)
+
+
+
+
+
